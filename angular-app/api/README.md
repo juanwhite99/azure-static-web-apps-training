@@ -61,3 +61,9 @@ This project is an Azure Functions app, that responds to GET, POST, PUT, and DEL
 To solve Error : Can't determine project language from files. Please use one of [--csharp, --javascript, --typescript, --java, --python, --powershell, --custom]
 
 * https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=v2-v3-v4-export%2Cv2-v3-v4-done%2Cv2%2Cv2-log-custom-telemetry%2Cv2-accessing-request-and-response%2Cwindows-setting-the-node-version
+
+### Run SWA
+```
+swa start http://localhost:4200 --api-location ./api
+```
+Then browse to http://localhost:4280.
