@@ -42,6 +42,7 @@ export class NavComponent implements OnInit {
 
   async ngOnInit() {
     this.userInfo = await this.getUserInfo();
+    console.log(this.userInfo);
   }
 
   async getUserInfo() {
