@@ -1,5 +1,19 @@
 ## JP Training Completed evidence
+Category: Training Completed
+Name of the training: Azure Static Web Apps
+Platform: Microsoft Learning	
+Link of the training: https://docs.microsoft.com/en-us/learn/paths/azure-static-web-apps/
+Evidence:
+ Github repo: https://github.com/juanwhite99/azure-static-web-apps-training
+ Live Page: https://salmon-pebble-0b2397a10.1.azurestaticapps.net/products
+
+### Time:
+ Lectures: 2:18hrs
+ Exercises: 1.5 hrs
+
 ![Training completed](./assets/training-completed.png)
+
+
 
 ---
 page_type: sample
