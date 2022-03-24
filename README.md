@@ -1,3 +1,6 @@
+## JP Training Completed evidence
+![Training completed](./assets/training-completed.png)
+
 ---
 page_type: sample
 languages:
